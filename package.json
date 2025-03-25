@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-angular-mc",
+  "version": "1.0.0",
+  "description": "Angular eslint plugins",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "eslintpluginangularmc",
+    "eslint-plugin-angular-mc",
+    "angularmc"
+  ],
+  "author": "Mike Cabana <mikeyc343@gmail.com>",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=9.0.0"
+  }
+}
