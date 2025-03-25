@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-angular-mc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular eslint plugins",
   "repository": {
     "url": "https://github.com/mikecabana/eslint-plugin-angular-mc.git"
