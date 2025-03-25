@@ -15,7 +15,7 @@
     "angularmc"
   ],
   "author": "Mike Cabana <mikeyc343@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "eslint": ">=9.0.0"
   }
