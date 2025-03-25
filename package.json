@@ -2,6 +2,9 @@
   "name": "eslint-plugin-angular-mc",
   "version": "1.0.0",
   "description": "Angular eslint plugins",
+  "repository": {
+    "url": "https://github.com/mikecabana/eslint-plugin-angular-mc.git"
+  },
   "main": "index.js",
   "keywords": [
     "eslint",
